@@ -2,3 +2,10 @@
 /frontend.iml
 .DS_Store
 /backend/src/main/resources/static/static/
+/backend/src/main/resources/static/asset-manifest.json
+/backend/src/main/resources/static/favicon.ico
+/backend/src/main/resources/static/index.html
+/backend/src/main/resources/static/logo192.png
+/backend/src/main/resources/static/logo512.png
+/backend/src/main/resources/static/manifest.json
+/backend/src/main/resources/static/robots.txt
