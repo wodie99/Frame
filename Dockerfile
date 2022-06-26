@@ -2,7 +2,7 @@ FROM openjdk:17
 
 ENV ENVIRONMENT=prod
 
-LABEL maintainer="wolfgang.dietz@wodie.net"
+LABEL maintainer="wodie99@wodie.net"
 
 ADD backend/target/app.jar app.jar
 
