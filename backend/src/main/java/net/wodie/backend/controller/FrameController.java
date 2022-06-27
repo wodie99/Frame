@@ -22,10 +22,4 @@ public class FrameController {
     public List<FrameItem> getAllFrameItems() {
         return frameService.getAllFrameItems();
     }
-
-    @RequestMapping("/login")
-    public String login() {
-        return "login";
-    }
-
 }
